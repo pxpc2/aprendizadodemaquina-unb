@@ -1,2 +1,2 @@
 # aprendizadodemaquina-unb
-Todos os jupyter notebooks criados por mim durante a disciplina Aprendizado de Máquina da UnB-FGA
+Todos os jupyter notebooks criados na disciplina Aprendizado de Máquina da UnB-FGA
